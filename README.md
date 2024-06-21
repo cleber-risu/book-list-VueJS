@@ -1,7 +1,22 @@
-# Vue 3 + Vite
+<h1 align="center">Book List</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p align="center">
+  <img alt="book list" src=".github/thumb-proj.png" width="100%">
+</p>
 
-## Recommended IDE Setup
+## 🚀 Tecnologias
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- VueJS
+
+## 💻 Projeto
+
+Este app de book list é um projeto simples feito para estudar Composition API no VueJS. Pode se adicionar novos livros a serem lidos, marcar livros adicionados como lidos e ver o progresso de leitura de todos os livros adicionados na inferior de status.
+
+---
+
+Feito com ♥ by Cleber Risu
